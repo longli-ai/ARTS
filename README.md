@@ -29,8 +29,53 @@ Algorithm, Review, Tip, Share, Lecture
 [Week5 2019/04/28](https://github.com/rubust-ai/ARTSL/blob/master/week5.md)
 
 
-[Week6 2019/05/04](https://github.com/rubust-ai/ARTSL/blob/master/week6.md)
+[Week6 2019/05/05](https://github.com/rubust-ai/ARTSL/blob/master/week6.md)
 
+
+[Week7 2019/05/12](https://github.com/rubust-ai/ARTSL/blob/master/week7.md)
+
+
+
+[Week8 2019/05/19](https://github.com/rubust-ai/ARTSL/blob/master/week8.md)
+
+
+
+[Week9 2019/05/26](https://github.com/rubust-ai/ARTSL/blob/master/week9.md)
+
+
+
+[Week10 2019/06/02](https://github.com/rubust-ai/ARTSL/blob/master/week10.md)
+
+
+
+[Week11 2019/06/09](https://github.com/rubust-ai/ARTSL/blob/master/week11.md)
+
+
+[Week12 2019/06/16](https://github.com/rubust-ai/ARTSL/blob/master/week12.md)
+
+[Week13 2019/06/23](https://github.com/rubust-ai/ARTSL/blob/master/week13.md)
+
+[Week14 2019/06/30](https://github.com/rubust-ai/ARTSL/blob/master/week14.md)
+
+
+[Week15 2019/07/07](https://github.com/rubust-ai/ARTSL/blob/master/week15.md)
+
+
+
+[Week16 2019/07/14](https://github.com/rubust-ai/ARTSL/blob/master/week16.md)
+
+
+
+
+[Week17 2019/07/21](https://github.com/rubust-ai/ARTSL/blob/master/week17.md)
+
+[Week18 2019/07/28](https://github.com/rubust-ai/ARTSL/blob/master/week18.md)
+
+
+[Week19 2019/08/04](https://github.com/rubust-ai/ARTSL/blob/master/week19.md)
+
+
+[Week20 2019/08/11](https://github.com/rubust-ai/ARTSL/blob/master/week20.md)
 
 
 
