@@ -64,7 +64,7 @@ git push -u origin master # 上传代码到远程git仓库
 
 ## Lecture
 
-[CS229 Stanford Machine Learning(On-going)](https://github.com/rubust-ai/CS229-Machine-Learning)
+[Machine Learning(On-going)](https://github.com/rubust-ai/Machine-Learning)
 
 [Week7 Support Vector Machines](https://www.coursera.org/learn/machine-learning/home/week/7)
 
@@ -87,7 +87,7 @@ SVM实战
 
 我的笔记
 
-[week7 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week07.md)
+[week7 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week07.md)
 
 &nbsp;
 [Week8 Unsupervised Learning](https://www.coursera.org/learn/machine-learning/home/week/8)
@@ -119,7 +119,7 @@ pca实施
 
 我的笔记
 
-[week8 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week08.md)
+[week8 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week08.md)
 
 &nbsp;
 

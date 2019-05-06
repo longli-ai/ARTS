@@ -136,7 +136,8 @@ model.fit(x_train, y_train, epochs=10, callbacks=[callbacks])
 
 ## Lecture
 
-[CS229 Stanford Machine Learning(Done)](https://github.com/rubust-ai/CS229-Machine-Learning)
+课程地址
+[Machine Learning](https://github.com/rubust-ai/Machine-Learning)
 
 
 
@@ -163,7 +164,7 @@ model.fit(x_train, y_train, epochs=10, callbacks=[callbacks])
 
 我的笔记
 
-[week9 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week09.md)
+[week9 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week09.md)
 
 &nbsp;
 
@@ -186,7 +187,7 @@ model.fit(x_train, y_train, epochs=10, callbacks=[callbacks])
 
 我的笔记
 
-[week10 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week10.md)
+[week10 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week10.md)
 
 &nbsp;
 
@@ -202,10 +203,10 @@ model.fit(x_train, y_train, epochs=10, callbacks=[callbacks])
 
 **我的笔记**
 
-[week11 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week11.md)
+[week11 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week11.md)
 
 
-[编程作业 homework](https://github.com/rubust-ai/CS229-Machine-Learning/tree/master/homework)
+[编程作业 homework](https://github.com/rubust-ai/Machine-Learning/tree/master/homework)
 
 
 ## 尾巴

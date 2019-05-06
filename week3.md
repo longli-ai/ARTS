@@ -74,7 +74,7 @@ git status #查看当前工作区，有没有文件被更改或添加
 
 
 ## Lecture
-### [Stanford Machine Learning Week3](https://www.coursera.org/learn/machine-learning/home/week/3)
+### [Machine Learning Week3](https://www.coursera.org/learn/machine-learning/home/week/3)
 
 主要内容 逻辑回归和正则化
 
@@ -88,9 +88,9 @@ git status #查看当前工作区，有没有文件被更改或添加
 - 线性回归的正则化损失函数
 - 逻辑回归的正则化损失函数
 
-- 我的笔记 [week3 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week03.md)
+- 我的笔记 [week3 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week03.md)
 
-### [Stanford Machine Learning Week4](https://www.coursera.org/learn/machine-learning/home/week/4)
+### [Machine Learning Week4](https://www.coursera.org/learn/machine-learning/home/week/4)
 
 主要内容
 
@@ -98,14 +98,14 @@ git status #查看当前工作区，有没有文件被更改或添加
 - 神经元结构，activation和weights的层数相关定义，weights矩阵的大小
 - 前向传播的公式
 - 实例：为什么神经网络能学习复杂的非线性假设
-    - not/and/or/xnor/xor的实现
+    - `not/and/or/xnor/xor` 的实现
 - 神经网络的多分类
     - one-vs-all
 
-- 我的笔记 [week4 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week04.md)
+- 我的笔记 [week4 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week04.md)
 
 
 
 
-### 尾巴
-本周新鲜事，将 arts 和 Stanford machine learning notes 都直接用github来管理，采用 Mweb 和 typora 来写这些文档，写好，打开github，点击'Commit to master'和'push origin'，然后就能在github上看到了，并且隔天手机 PPhub 上还能看到绿色的砖块，显示前一天的工作勤奋度。
+### 本周尾巴
+本周新鲜事，将 `ARTS` 和 `Machine Learning` 都直接用 `github` 来管理，采用 `Mweb` 和 `typora` 来写这些文档，写好，打开 `github`，点击`Commit to master` 和 `push origin` ，然后就能在`github` 上看到了，并且隔天手机 `PPhub` 上还能看到绿色的砖块，显示前一天的工作勤奋度。

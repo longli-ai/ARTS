@@ -72,7 +72,7 @@ $$\frac{\partial}{\partial\theta}J(\theta) \tag{2}=\frac{1}{m}X^T(X\theta-y)$$
 
 ## Lecture
 
-[Stanford Machine Learning Week5](https://www.coursera.org/learn/machine-learning/home/week/5)
+[Machine Learning Week5](https://www.coursera.org/learn/machine-learning/home/week/5)
 
 主要内容
 
@@ -84,10 +84,10 @@ $$\frac{\partial}{\partial\theta}J(\theta) \tag{2}=\frac{1}{m}X^T(X\theta-y)$$
 
 我的笔记
 
-[week5 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week05.md)
+[week5 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week05.md)
 
 &nbsp;
-[Stanford Machine Learning Week6](https://www.coursera.org/learn/machine-learning/home/week/6)
+[Machine Learning Week6](https://www.coursera.org/learn/machine-learning/home/week/6)
 
 主要内容
 
@@ -111,7 +111,7 @@ $$\frac{\partial}{\partial\theta}J(\theta) \tag{2}=\frac{1}{m}X^T(X\theta-y)$$
 
 我的笔记
 
-[week6 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week06.md)
+[week6 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week06.md)
 
 &nbsp;
 

@@ -109,16 +109,18 @@ for i in zip(*nums):
 
 
 ## Lecture
-### [Stanford Machine Learning Week1](https://www.coursera.org/learn/machine-learning/home/week/1)
+
+
+[Machine Learning Week1](https://www.coursera.org/learn/machine-learning/home/week/1)
 
 主要内容
 
 - 机器学习定义，解决问题（回归和分类），监督学习定义，无监督学习定义
 - 线性回归模型，其损失函数，相关线性代数
 
-- 我的笔记 [week1 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week01.md)
+- 我的笔记 [week1 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week01.md)
 
-### [Stanford Machine Learning Week2](https://www.coursera.org/learn/machine-learning/home/week/2)
+[Machine Learning Week2](https://www.coursera.org/learn/machine-learning/home/week/2)
 
 主要内容
 
@@ -126,11 +128,11 @@ for i in zip(*nums):
 - octave的使用，作业题目是手写 **梯度下降**，值得注意的区分就是$X'*\theta$还是$\theta*X$
 - 切记：octave与其他的语言不同，采用1-n到多少，其他语言基本都是0-n，比如矩阵A[:,1:2]代表第1列，第2列
 
-- 我的笔记 [week2 notes](https://github.com/rubust-ai/CS229-Machine-Learning/blob/master/week02.md)
+- 我的笔记 [week2 notes](https://github.com/rubust-ai/Machine-Learning/blob/master/week02.md)
 
 
 
 
-### 尾巴
+### 本周尾巴
 
 上周开始有想法改变ARTS的分享内容，想将ARTS和自己的学习相结合，感觉有些和自己的平时学习相悖，毕竟时间还是有些冲突的。目前把其中review的部分目前改成学习外国精品课程(Lecture)，以后或许改成ARTSL，其L代表lecture，即每周学习一周精品课程，但量有些大，很难坚持，目前去除R，反正都是英文的。
