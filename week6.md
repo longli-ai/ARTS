@@ -136,12 +136,10 @@ model.fit(x_train, y_train, epochs=10, callbacks=[callbacks])
 
 ## Lecture
 
-课程地址
 [Machine Learning](https://github.com/rubust-ai/Machine-Learning)
 
 
-
-课程地址 [Week9 Anomaly Detection](https://www.coursera.org/learn/machine-learning/home/week/9)
+[Week9 Anomaly Detection](https://www.coursera.org/learn/machine-learning/home/week/9)
 
 主要内容
 
