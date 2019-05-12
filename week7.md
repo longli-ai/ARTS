@@ -44,5 +44,4 @@ Github 的 markdown 不支持数学公式, 安装下面的 chrome 安装 mathjax
 &nbsp;
 ## 尾巴
 
-本周重心没在学习上面，主要在看市场了，闲暇时间还是要学习，多复习。
 
