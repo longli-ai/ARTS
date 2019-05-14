@@ -17,13 +17,21 @@ Github 的 markdown 不支持数学公式, 安装下面的 chrome 安装 mathjax
 - 返回的列表中位置+1，第多少个元素。
 
 
-**解题思路**
+**解题思路1**
 - 我采用倒序来取元素，因为正序需要切片
 - 目标值减去当前值，得到差值，如果差值也在列表中，就可以返回了
+- 此思路时间效率太差，大概`2192 ms`
 
+**解题思路2**
+- 活用二分查找法
+- 本题相当于查找两个数字，而不是以前的一个
+- 将首尾初始化作为两个元素，看看是否大于target
+    - 等于直接返回
+    - 大于的话，右边值需要向左移动
+    - 小于的话，左边值需要向右移动
+- 时间只有 `44 ms`
 
 **我的解法**
-
 [167_Two_Sum_II_Input_array_is_sorted.py](https://github.com/rubust-ai/Leetcode-python3/blob/master/167_Two_Sum_II_Input_array_is_sorted.py)
 
 &nbsp;
