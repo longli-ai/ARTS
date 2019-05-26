@@ -83,7 +83,10 @@
 &nbsp;
 ## Lecture
 
-[机器学习-周志华](https://item.jd.com/11867803.html)
+这周没怎么学习
+
+![59364e51N37316972](https://user-images.githubusercontent.com/41643043/58382181-bf9f8e80-7ff9-11e9-9382-649056a4a8d1.jpg)
+
 
 [第1章 绪论](https://github.com/rubust-ai/Machine-Learning-Book/blob/master/ch1_intro.md)
 
