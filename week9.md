@@ -43,12 +43,12 @@
 
 
 &nbsp;
+
 ## Tips
 
+[Google 开源项目风格指南 - 中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
 
-        
-
-
+写了一段时间的程序，很多时候自己的命名变量的方法并不好，写着写着到最后，基本上多个相似内容变量的意义混乱了，区分度变差了，是时候有必要规范代码的风格。
 
 &nbsp;
 ## Share
