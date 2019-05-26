@@ -26,6 +26,7 @@
 
 
 &nbsp;
+
 **题目2**
 [1051. Height Checker](https://leetcode.com/problems/height-checker/)
 
@@ -80,7 +81,7 @@
 &nbsp;
 ## Lecture
 
-[机器学习](https://item.jd.com/11867803.html)
+[机器学习-周志华](https://item.jd.com/11867803.html)
 
 [第1章 绪论](https://github.com/rubust-ai/Machine-Learning-Book/blob/master/ch1_intro.md)
 
