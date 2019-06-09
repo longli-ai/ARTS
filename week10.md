@@ -78,7 +78,8 @@
 &nbsp;
 ## Lecture
 
-课程地址
+课程 `link`
+
 
 [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
 
