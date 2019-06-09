@@ -28,9 +28,9 @@
 
 ## Tips
 
-[Google 开源项目风格指南 - 中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
 
-写了一段时间的程序，很多时候自己的命名变量的方法并不好，写着写着到最后，基本上多个相似内容变量的意义混乱了，区分度变差了，是时候有必要规范代码的风格。
+
+
 
 &nbsp;
 ## Share
@@ -78,5 +78,12 @@
 &nbsp;
 ## Lecture
 
+课程地址
+
+[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+
+笔记 `link`
+
+[Week1 Introduction to deep learning](https://github.com/rubust-ai/Deep-Learning/blob/master/class1-week1.md)
 
 
