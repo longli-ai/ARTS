@@ -3,26 +3,19 @@
 
 ## Algorithm
 
-**题目1**
+**题目**
 
-[509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+[476. Number Complement](https://leetcode.com/problems/number-complement/)
+
 
 **要求**
-- 斐波那契数列，后面项等于前面两项之和
+- 求正整数的补数
 
 **思路**
-- 递归方式来做
-    - 递归的优点，快速实现，简单明了
-    - 递归的缺点，从后面前计算，计算次数多，时间复杂度高`1145ms`
-- 顺序计算法
-    - 创建一个列表，从`1..N`计算每项值
-    - 速度很快 `32ms`
+- 根据补数的定义，将数字转换成二进制，按位进行0，1替换，转换成10进制，得到补数
 
 **解答**
-
-- [递归解法](https://github.com/rubust-ai/Leetcode-python3/blob/master/509_Fibonacci_Number.py)
-
-- [顺序计算解法](https://github.com/rubust-ai/Leetcode-python3/blob/master/509_Fibonacci_Number_2.py)
+- [476. Number Complement](https://github.com/rubust-ai/Leetcode-python3/blob/master/476_Number_Complement.py)
 
 &nbsp;
 
