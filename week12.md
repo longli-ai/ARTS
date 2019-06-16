@@ -1,4 +1,4 @@
-# Week10 06/02/2019
+# Week12 06/16/2019
 
 
 ## Algorithm
@@ -74,10 +74,10 @@
 课程 `link`
 
 
-[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/3)
 
 笔记 `link`
 
-[Week1 Introduction to deep learning](https://github.com/rubust-ai/Deep-Learning/blob/master/class1-week1.md)
+[Week1 Introduction to deep learning](https://github.com/rubust-ai/Deep-Learning/blob/master/class1-week3.md)
 
 
