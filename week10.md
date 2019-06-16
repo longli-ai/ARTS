@@ -74,7 +74,7 @@
 课程 `link`
 
 
-[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1)
 
 笔记 `link`
 
