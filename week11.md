@@ -40,15 +40,25 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 - 让最大值变小，最小值变大，这样能得到最小差值。
 - 当然要判断最大值减去最小值的差值是否是`2*K`
 
-
 ### 解答
 - [908. Smallest Range I](https://github.com/rubust-ai/Leetcode-python3/blob/master/908_Smallest_Range_I.py)
+
+看了下解答，基本都是这种解法，通过这么多次的`python`解题，感觉`python`可能都不算一门语言，好多东西都替你封装好了，并不像其他语言一样，需要自己去实现。这样下去我要去玩`c++`了。
 
 &nbsp;
 ## Tips
 
+利用`Github`当`markdown`图床
 
+步骤
+- 打开一个`repo`，新开一个`new issue`
+- 起好标题名字，将图片拉入 `write` 框
+- 等图片自己上传，会生成一个图片链接
+- 可以调整`width`大小，这样免费图床就来了
 
+```
+<img width="453" alt="cg" src="https://user-images.githubusercontent.com/41643043/59558415-3f7eae80-9024-11e9-95be-fbcc540e4158.png">
+```
 
 
 &nbsp;
@@ -85,7 +95,7 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 谈判中技巧
 - 解决冲突最重要的技能是学习倾听和理解
     - 不仅仅是尊重对方，了解对方的需求，而且还给自己保留了时间进行回应和调整。
-- 避免使用所谓的“红旗”字样
+- 避免使用一定过于强硬的词
     - 比如“应该”，“但是”，“永远”和“从不”
     - 改成“推荐”，“建议”和“将要或不会”
     - 控制情绪，减少刺激，并且很直接
@@ -117,9 +127,9 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 
 在平时生活中，我不愿意谈判或者害怕谈判，比如加薪，买卖房屋，总是将这些看成一件很严肃的事情，内心基本是排斥的。
 
-之前的处理，基本上我都是让对方说，尽可能的说，然后问我，让我回答。
+以往的经验处理，基本上我都是让对方说，尽可能的说，然后让对方问我，然后我被动的回答。
 
-但这样的做法，会让对方或者我自己感受到，我只是被动的在接受某些东西，并没有主动的说出自己的想法，这在工作中是很不利的，影响自身的`promotion`。
+但这样的做法，会让对方或者我自己感受到，我只是被动的在接受某些东西，并没有主动的说出自己的想法，这在工作中是很不利的，影响自身的`promotion`。以后策略，基本可以让对方讲，抓住对方和自己的共同点切入，进行讨论。
 
 有些谈判是一次性的合作，当然可以采用使对方屈服，但是有时候的太强硬会使对方选择其他方案，所以在自己可接受的范围内，`soft`的合作解决问题会更好，但是如果对方大砍刀下来，基本上还是很 `hard`的。
 
@@ -129,7 +139,7 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 
 ### 课程 `link`
 
-[Week2 Neural Networks Basics](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/2)
+[Neural Networks Basics](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/2)
 
 ### 笔记 `link`
 
@@ -137,7 +147,7 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 
 ### 作业 `link` - `private repo`
 
-[Week2 Neural Networks Basics](https://github.com/rubust-ai/Deep-Learning-Homework/tree/master/class1/week2)
+[Week2 quiz & programming](https://github.com/rubust-ai/Deep-Learning-Homework/tree/master/class1/week2)
 
 
 
