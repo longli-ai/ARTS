@@ -21,7 +21,25 @@
 
 ## Tips
 
+`numpy`中的广播`broadcasting`
 
+本周做`Lecture`中的`quiz`，`numpy`题目基本都错的，原因是没搞清楚广播。
+
+```python
+import numpy as np
+arr1 = np.array([[0, 0, 0],[1, 1, 1],[2, 2, 2], [3, 3, 3]])  #arr1.shape = (4,3)
+arr2 = np.array([1, 2, 3])    #arr2.shape = (3,)
+arr_sum = arr1 + arr2
+print(arr_sum)
+
+'''
+[[1 2 3]
+ [2 3 4]
+[3 4 5]
+[4 5 6]]
+'''
+
+```
 
 
 
