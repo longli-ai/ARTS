@@ -1,21 +1,48 @@
-# Week10 06/02/2019
+# Week11 06/09/2019
 
 
 ## Algorithm
 
-**题目**
+### 题目
 
-[476. Number Complement](https://leetcode.com/problems/number-complement/)
+[908. Smallest Range I](https://leetcode.com/problems/smallest-range-i/)
+
+```
+Given an array A of integers, for each integer A[i] we may choose any x with -K <= x <= K, and add x to A[i].
+
+After this process, we have some array B.
+
+Return the smallest possible difference between the maximum value of B and the minimum value of B.
+
+Example 1:
+
+Input: A = [1], K = 0
+Output: 0
+Explanation: B = [1]
+Example 2:
+
+Input: A = [0,10], K = 2
+Output: 6
+Explanation: B = [2,8]
+Example 3:
+
+Input: A = [1,3,6], K = 3
+Output: 0
+Explanation: B = [3,3,3] or B = [4,4,4]
+```
+
+### 要求
+- 题目比较难看懂，其实就是从数组`A`中取值，从`[-K,K]`取值，和`A`元素相加，得到一个新的数组`B`。
+- 求最后`B`元素中最大值和最小值的最小差值。
+
+### 思路
+- 从观察例子可以看出，主要讲数组`A`中最大最小值拿出来
+- 让最大值变小，最小值变大，这样能得到最小差值。
+- 当然要判断最大值减去最小值的差值是否是`2*K`
 
 
-**要求**
-- 求正整数的补数
-
-**思路**
-- 根据补数的定义，将数字转换成二进制，按位进行0，1替换，转换成10进制，得到补数
-
-**解答**
-- [476. Number Complement](https://github.com/rubust-ai/Leetcode-python3/blob/master/476_Number_Complement.py)
+### 解答
+- [908. Smallest Range I](https://github.com/rubust-ai/Leetcode-python3/blob/master/908_Smallest_Range_I.py)
 
 &nbsp;
 
@@ -71,13 +98,18 @@
 &nbsp;
 ## Lecture
 
-课程 `link`
+### 课程 `link`
 
+[Week2 Neural Networks Basics](https://www.coursera.org/learn/neural-networks-deep-learning/home/week/2)
 
-[Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+### 笔记 `link`
 
-笔记 `link`
+[Week2 Neural Networks Basics](https://github.com/rubust-ai/Deep-Learning/blob/master/class1-week2.md)
 
-[Week1 Introduction to deep learning](https://github.com/rubust-ai/Deep-Learning/blob/master/class1-week1.md)
+### 作业 `link` - `private repo`
+
+[Week2 Neural Networks Basics](https://github.com/rubust-ai/Deep-Learning-Homework/tree/master/class1/week2)
+- [Logistic Regression as a Neural Network](https://github.com/rubust-ai/Deep-Learning-Homework/blob/master/class1/week2/homework/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb)
+- [Python Basics with Numpy](https://github.com/rubust-ai/Deep-Learning-Homework/blob/master/class1/week2/homework/Python%20Basics%20with%20Numpy/Python%20Basics%20With%20Numpy%20v3.ipynb)
 
 
