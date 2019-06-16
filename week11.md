@@ -45,7 +45,6 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 - [908. Smallest Range I](https://github.com/rubust-ai/Leetcode-python3/blob/master/908_Smallest_Range_I.py)
 
 &nbsp;
-
 ## Tips
 
 
@@ -141,5 +140,8 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 [Week2 Neural Networks Basics](https://github.com/rubust-ai/Deep-Learning-Homework/tree/master/class1/week2)
 - [Logistic Regression as a Neural Network](https://github.com/rubust-ai/Deep-Learning-Homework/blob/master/class1/week2/homework/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb)
 - [Python Basics with Numpy](https://github.com/rubust-ai/Deep-Learning-Homework/blob/master/class1/week2/homework/Python%20Basics%20with%20Numpy/Python%20Basics%20With%20Numpy%20v3.ipynb)
+
+
+
 
 
