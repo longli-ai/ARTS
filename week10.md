@@ -21,7 +21,7 @@
 
 ## Tips
 
-`numpy`中的广播`broadcasting`
+### `numpy`中的广播`broadcasting`
 
 本周做`Lecture`中的`quiz`，`numpy`题目基本都错的，原因是没搞清楚广播。
 
@@ -38,8 +38,48 @@ print(arr_sum)
 [3 4 5]
 [4 5 6]]
 '''
-
 ```
+
+我当时认为两个`shape` 大小不一致，应该输出报错，其实是不知道 `numpy`的广播机制。
+
+
+### 广播的原则
+
+定义
+- 如果两个数组的后缘维度（`trailing dimension`，即从末尾开始算起的维度）的轴长度相符，或其中的一方的长度为1，则认为它们是广播兼容的。广播会在缺失和（或）长度为1的维度上进行。
+
+&nbsp;
+
+上例中arr1的shape为（4,3），arr2的shape为（3，)，上面的例子中，`shape`不一致，但是尾巴都是3，是一致的。
+![tips1](https://user-images.githubusercontent.com/41643043/59562642-a40c2e80-9061-11e9-8d21-ba44fe2ff191.png)
+
+同样下面的例子也是可以的
+
+![tips2](https://user-images.githubusercontent.com/41643043/59562643-a40c2e80-9061-11e9-8e3c-91508257d771.png)
+
+
+### 数组维度相同，其中有个轴为1
+
+```python
+import numpy as np
+
+arr1 = np.array([[0, 0, 0],[1, 1, 1],[2, 2, 2], [3, 3, 3]])  #arr1.shape = (4,3)
+arr2 = np.array([[1],[2],[3],[4]])    #arr2.shape = (4, 1)
+
+arr_sum = arr1 + arr2
+print(arr_sum)
+
+'''
+[[1 1 1]
+ [3 3 3]
+ [5 5 5]
+ [7 7 7]]
+'''
+```
+
+但是它们可以执行相加操作，这就是通过广播完成的，在这个例子当中是将arr2沿着0轴进行扩展
+
+![tips3](https://user-images.githubusercontent.com/41643043/59562776-601a2900-9063-11e9-8253-2316e3ca75fb.png)
 
 
 
