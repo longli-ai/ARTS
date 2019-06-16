@@ -78,7 +78,7 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 - 参与者对于在问题中获得理想的结果更加乐观 - 解决方案，更有可能再次合作
 
 
-##### 调整细节
+#### 调整细节
 
 谈判并不想伤害感情等
 
@@ -97,12 +97,12 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 
 
 
-##### 放下电话
+#### 放下电话
 
 面对面交流更能培养人的感情，并且促使大家共享解决方案。
 
 
-##### 尽量放松
+#### 尽量放松
 
 当你与亲近的人谈判时，很容易感觉真的有两次谈判
 - 一个是你实际谈论的
@@ -138,8 +138,6 @@ Explanation: B = [3,3,3] or B = [4,4,4]
 ### 作业 `link` - `private repo`
 
 [Week2 Neural Networks Basics](https://github.com/rubust-ai/Deep-Learning-Homework/tree/master/class1/week2)
-- [Logistic Regression as a Neural Network](https://github.com/rubust-ai/Deep-Learning-Homework/blob/master/class1/week2/homework/Logistic%20Regression%20as%20a%20Neural%20Network/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset%20v5.ipynb)
-- [Python Basics with Numpy](https://github.com/rubust-ai/Deep-Learning-Homework/blob/master/class1/week2/homework/Python%20Basics%20with%20Numpy/Python%20Basics%20With%20Numpy%20v3.ipynb)
 
 
 
