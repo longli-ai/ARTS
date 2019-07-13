@@ -3,16 +3,13 @@
 
 ## Algorithm
 
+[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 
 
 
-### **要求**
+**解答**
 
 
-### **思路**
-
-
-### **解答**
 
 
 &nbsp;
