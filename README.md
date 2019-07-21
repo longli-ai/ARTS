@@ -1,5 +1,6 @@
-# ARTSL
-Algorithm, Review Tip, Share, Lecture
+# ARTS
+`ARTS` stands for `Algorithm, Review Tip, Share`
+New item added : `Lecture` on 2019/03/31
 
 `Algorithm`
 - 每周至少做一个 `Leetcode` 的算法题
@@ -16,7 +17,7 @@ Algorithm, Review Tip, Share, Lecture
 `Lecture`
 - 学习计算机课程的一周课，我自己加的，最近要学习，替换了 `Review`，以后会将其加回来。
 
-目前5选4，取消 `Review`，毕竟学的也是英文技术课程。
+目前5选4，取消 `Review`，毕竟学的也是英文技术
 
 偶尔改一改表述中的逻辑，文章中格式，所以会更新过往的文章。这点我很喜欢 `Git`
 
